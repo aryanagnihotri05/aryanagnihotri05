@@ -1,16 +1,33 @@
-## Hi there 👋
+# About Me!  
 
-<!--
-**aryanagnihotri05/aryanagnihotri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Aryan Agnihotri** 👋  
+🚀 Application Developer | Open Source Contributor  
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 B.Tech (IT) | Your College (2023–2027)  
+- 💡 Specializing in Android Development, Flutter, and Jetpack Compose  
+- 🏆 SIH 2024 Grand Finalist 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-agnihotri-127992278/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/aryan_agnihotri291)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanagnihotri05@gmail.com)  
+
+---
+
+## 🛠 Tech Stack  
+![Java](https://img.shields.io/badge/logo-Java-blue?logo=openjdk&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/logo-Kotlin-blue?logo=kotlin&logoColor=7F52FF)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/logo-Python-blue?logo=Python&logoColor=3776AB)  
+![Flutter](https://img.shields.io/badge/logo-flutter-blue?logo=flutter&logoColor=02569B)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+![Jetpack Compose](https://img.shields.io/badge/logo-JetPack%20Compose-blue?logo=jetpack-compose&logoColor=4285F4)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+
+---
+
+⭐️ From [aryanagnihotri05](https://github.com/aryanagnihotri)
