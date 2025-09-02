@@ -18,14 +18,14 @@ Hi, I'm **Aryan Agnihotri** 👋
 ---
 
 ## 🛠 Tech Stack  
-![Java](https://img.shields.io/badge/logo-Java-blue?logo=openjdk&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/logo-Kotlin-blue?logo=kotlin&logoColor=7F52FF)  
+![Java](https://img.shields.io/badge/Java-blue?logo=openjdk&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-blue?logo=kotlin&logoColor=7F52FF)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/logo-Python-blue?logo=Python&logoColor=3776AB)  
-![Flutter](https://img.shields.io/badge/logo-flutter-blue?logo=flutter&logoColor=02569B)  
+![Python](https://img.shields.io/badge/Python-blue?logo=Python&logoColor=3776AB)  
+![Flutter](https://img.shields.io/badge/flutter-blue?logo=flutter&logoColor=02569B)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
-![Jetpack Compose](https://img.shields.io/badge/logo-JetPack%20Compose-blue?logo=jetpack-compose&logoColor=4285F4)  
+![Jetpack Compose](https://img.shields.io/badge/JetPack%20Compose-blue?logo=jetpack-compose&logoColor=4285F4)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 
 ---
