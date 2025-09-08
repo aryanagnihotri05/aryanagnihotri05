@@ -30,4 +30,11 @@ Hi, I'm **Aryan Agnihotri** 👋
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aryanagnihotri05&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aryanagnihotri05&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanagnihotri05&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
 ⭐️ From [aryanagnihotri05](https://github.com/aryanagnihotri)
